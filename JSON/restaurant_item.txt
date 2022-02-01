@@ -1,0 +1,1 @@
+{"Rajma Chawal": 26, "Momos": 25, "Egg Curry": 90, "Litti Chokha": 10, "Chhole Kulche": 20, "Dosa": 50, "Thukpa": 45, "Vada Pao": 10}
